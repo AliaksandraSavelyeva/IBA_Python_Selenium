@@ -18,7 +18,7 @@ class PythonOrgSearch (unittest.TestCase):
             href_list.append(e.get_attribute("href"))
             name_list.append(e.get_attribute('innerHTML'))
 
-        for i in range(len(href_list)):
+        for i in range(len(href_list)-1):
             driver.get(href_list[i])
             elem = driver.find_element_by_css_selector('.breadcrumbs')
             self.assertIn("About", elem.get_attribute('innerHTML'))

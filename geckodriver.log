@@ -40,3 +40,69 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1624473549353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAVELY~1\\AppData\\Local\\Temp\\rust_mozprofileWsLbdx"
+1624473551106	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Savelyeva_A\\AppData\\Local\\Temp\\rust_mozprofileWsLbdx\\search.json.mozlz4", (void 0)))
+1624473557147	Marionette	INFO	Listening on port 55271
+1624473557377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624473561194	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://kalk.pro/resources/script.common.p1/obf.237712193652.js, line 1: unreachable code after return statement
+1624473561800	Marionette	INFO	Stopped listening on port 55271
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624473716742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAVELY~1\\AppData\\Local\\Temp\\rust_mozprofileGQtv9s"
+1624473718320	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Savelyeva_A\\AppData\\Local\\Temp\\rust_mozprofileGQtv9s\\search.json.mozlz4", (void 0)))
+1624473723318	Marionette	INFO	Listening on port 63866
+1624473723762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kalk.pro/resources/script.common.p1/obf.237712193652.js, line 1: unreachable code after return statement
+1624473728507	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1624473728897	Marionette	INFO	Stopped listening on port 63866
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624473733816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAVELY~1\\AppData\\Local\\Temp\\rust_mozprofilex17XqY"
+1624473735362	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Savelyeva_A\\AppData\\Local\\Temp\\rust_mozprofilex17XqY\\search.json.mozlz4", (void 0)))
+1624473740386	Marionette	INFO	Listening on port 63933
+1624473740881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kalk.pro/resources/script.common.p1/obf.237712193652.js, line 1: unreachable code after return statement
+1624473745705	Marionette	INFO	Stopped listening on port 63933
+[Parent 24588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624473775182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAVELY~1\\AppData\\Local\\Temp\\rust_mozprofileHFKTrJ"
+1624473776479	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Savelyeva_A\\AppData\\Local\\Temp\\rust_mozprofileHFKTrJ\\search.json.mozlz4", (void 0)))
+1624473781641	Marionette	INFO	Listening on port 64003
+1624473781728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624473811899	Marionette	INFO	Stopped listening on port 64003
